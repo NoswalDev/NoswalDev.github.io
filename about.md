@@ -8,4 +8,5 @@ There's not much going on here because I haven't done much yet. I hope to make t
 ## Contact
 
 Telegram: @Noswal
+
 Email: NoswalDev@outlook.com
