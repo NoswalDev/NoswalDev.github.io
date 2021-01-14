@@ -3,7 +3,7 @@ permalink:           pretty
 
 # Setup
 title:               NoswalBlog
-tagline:             An Attempt At A Blog
+tagline:             I'm Under Construction
 url:                 http://NoswalDev.github.io
 paginate:            2
 baseurl:             ""
@@ -18,7 +18,7 @@ sass:
 # About/contact
 author:
   name:              Lawson Ho
-  url:               
+  url:               https://noswaldev.github.io/
   email:             50437048+NoswalDev@users.noreply.github.com
 
 # Custom vars
